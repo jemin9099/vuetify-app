@@ -11,10 +11,10 @@
 
     <v-tabs fixed-tabs color="#1a73e8">
         <v-tab>
-            <router-link to="/" class=" text-decoration-none text-black">Home</router-link>
+            <router-link to="/" class=" text-decoration-none ">Home</router-link>
         </v-tab>
         <v-tab>
-            <router-link to="/event" class=" text-decoration-none text-black">event</router-link>
+            <router-link to="/event" class=" text-decoration-none ">event</router-link>
         </v-tab>
         <v-tab>
             Team
