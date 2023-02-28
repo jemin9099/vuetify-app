@@ -69,13 +69,13 @@
     </v-col>
     <v-col md="6">
         <v-row>
-            <v-col md="4">
+            <v-col md="4" sm="6">
                 <div style="font-size: 130%;" class="text-center">Code of Cunduct</div>
             </v-col>
-            <v-col md="4">
+            <v-col md="4" sm="6">
                 <div style="font-size: 130%;">Terms & Servies</div>
             </v-col>
-            <v-col md="4">
+            <v-col md="4" sm="6">
                 <div style="font-size: 130%;" class="text-center">community & Guidelines</div>
             </v-col>
         </v-row>
